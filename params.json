@@ -1,6 +1,6 @@
 {
   "name": "Proposals",
   "tagline": "Index page for templates (actual templates in their own respective repos)",
-  "body": "# Dash Proposals\r\n\r\n### Sample Proposals\r\n* [Remake of Core Team](https://github.com/dashcommunity/proposal-core-team-remake)\r\n* [Dash Community](https://github.com/dashcommunity/proposal-dash-community)\r\n\r\n### Current Proposals\r\n* [Dash Community](https://github.com/dashcommunity/proposal-dash-community)\r\n\r\n### Archive\r\n* [None yet](dummylink)",
+  "body": "# Dash Proposals\r\n\r\n### Sample Proposals\r\n* [Remake of Core Team](https://github.com/dashcommunity/proposal-core-team-remake)\r\n* [Dash Community](https://github.com/dashcommunity/proposal-dash-community)\r\n\r\n### Current Proposals\r\n* [Dash Community](https://dashcommunity.github.io/proposal-dash-community/)\r\n\r\n### Archive\r\n* [None yet](dummylink)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }

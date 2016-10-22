@@ -1,6 +1,6 @@
 {
   "name": "Proposals",
-  "tagline": "Index page for templates (actual templates in their own respective repos)",
-  "body": "# Dash Proposals\r\n\r\n### Sample Proposals\r\n* [Remake of Core Team](https://github.com/dashcommunity/proposal-core-team-remake)\r\n* [Dash Community](https://github.com/dashcommunity/proposal-dash-community)\r\n\r\n### Current Proposals\r\n* [Dash Community](https://dashcommunity.github.io/proposal-dash-community/)\r\n\r\n### Archive\r\n* [None yet](dummylink)",
+  "tagline": "Guides and Samples for Dash Proposals",
+  "body": "### Current Proposals\r\n* [Dash Community](https://dashcommunity.github.io/proposal-dash-community/)\r\n\r\n### Sample Proposals\r\n* [Remake of Core Team](https://github.com/dashcommunity/proposal-core-team-remake)\r\n\r\n### Proposal Guides\r\n* [Create a Proposal from a Template](https://github.com/dashcommunity/guides/blob/master/create_proposal_from_template.md)\r\n* [Submit your Proposal to the Dash Network](https://github.com/dashcommunity/guides/blob/master/submit_proposal_to_network.md)\r\n* [Create a Proposal Template](https://github.com/dashcommunity/guides/blob/master/create_proposal_template.md)\r\n\r\n### Archive\r\n* [Archive Empty](dummylink)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
